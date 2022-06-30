@@ -1,8 +1,8 @@
 # website
 demo for git tutorial
-*** git
+### *** git
 ** hub
 * test
-*****# char
+***** char
 ## ubuntu
 
